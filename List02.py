@@ -11,4 +11,3 @@ def main(fruits,x,i):
     fruit=[]
     fruit=fruits.insert(i,x)
     return fruit
-print(main(("apple", "banana"),'kiwi', 1))

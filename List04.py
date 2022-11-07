@@ -10,4 +10,3 @@ def main(numbers,i):
     m = numbers.pop(i)
 
     return m
-print(main((1,2,3,4,5),2))

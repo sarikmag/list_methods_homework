@@ -13,4 +13,3 @@ def main(numbers1, numbers2):
     numbers2.insert(0,m)
     
     return numbers1+numbers2
-print(main((6,8,1),(3,5,7)))
